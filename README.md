@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/luocooldong/vue-spa-world.svg?branch=master)](https://travis-ci.org/luocooldong/vue-spa-world)
+[![Build Status](https://travis-ci.org/luocooldong/vue-spa-flower.svg?branch=master)](https://travis-ci.org/luocooldong/vue-spa-flower)
